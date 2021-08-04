@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adivinhe se puder</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="estilos/estilo.css">
+</head>
+
+<body>
+<div id="gradiente_colapsado"> </div>
+<div id="gradiente">
+
+    <div class="container">
+
+        <h1 class="text-center"><img src="imagens/mago.gif" alt="mago" class="mago">
+            ADIVINHE SE PUDER!!<img src="imagens/mago.gif" alt="mago" class="mago"> </h1>
+
+        <h2>Adivinhação - O jogo consiste em tentar acertar o número gerado pelo computador entre 0 a 99 na caixa de
+            texto. apenas você pode nos ajudar a vencer essa luta entre o homem e a máquina! eae... vai encarar
+            o desafio?</h2>
+
+        <button type="button" id="startGame" class="startGame" onclick="comecar()">Começar</button>
+        <button type="button" id="resetar" class="resetar" onclick="window.location.reload()">Resetar</button>
+
+        <div id="main" class="main-div">
+            <label for="advinha"></label><input type="text" id="advinha" class="advinha" placeholder=" Digite seu palpite">
+            <button type="button" id="enter" class="enter" onclick="analizarChute()">Enter</button>
+
+            <div id="palpites"></div>
+            <div id="alto_baixo" class=""> </div>
+        </div>
+
+        <img src="imagens/girl_final_page.gif" alt="garotinha da página" id="girl">
+
+    </div>
+
+</div>
+
+
+    <script src="javaScript/js.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+
+</html>

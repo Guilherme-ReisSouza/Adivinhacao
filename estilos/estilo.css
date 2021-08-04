@@ -1,0 +1,125 @@
+body{
+
+    text-align: center;
+    font-family: 'Cooper Black', Bold, serif;
+    font-weight: bold;
+    color: #011627;
+    font-size: 20px;
+    background-image: linear-gradient(to bottom right, #f72585, #b5179e, #7209b7, #560bad, #480ca8, #3a0ca3, #3f37c9,
+    #4361ee, #4895ef, #4cc9f0, #0BAD87);
+    background-size: 200% 200%;
+    animation: degrade 10s ease-in-out infinite;
+}
+@keyframes degrade {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+div h1{
+
+    font-family: 'Press Start 2P', cursive;
+    color: #d3f1fd;
+    font-size: 30px;
+}
+
+h2{
+
+    color: #d3f1fd;
+    margin-top: 1em;
+    font-size: 30px;
+}
+.mago{
+
+    width: 200px;
+}
+#girl{
+
+    align-items: flex-end;
+    justify-content: center;
+    width: 250px;
+}
+
+.startGame{
+
+    background-color: #4CC9F0;
+    margin: 20px auto;
+    padding: 8px 25px;
+    color: #011627;
+    border: solid  #4CC9F0;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.resetar{
+
+    background-color: #F72585;
+    margin: 20px auto;
+    padding: 8px 25px;
+    color: #011627;
+    border: solid  #F72585;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.enter{
+
+    background-color: #0BAD87;
+    margin: 20px auto;
+    padding: 8px 25px;
+    color: #011627;
+    border: solid  #0BAD87;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.advinha{
+
+    padding: 10px;
+    color: #011627;
+    border: solid  #0BAD87;
+    border-radius: 15px;
+    font-size: 20px;
+}
+#palpites{
+
+    font-size: 30px;
+    color: #011627;
+}
+
+.main-div {
+
+    visibility: hidden;
+}
+
+
+.erro_B {
+
+    align-content: center;
+    background-color: #F72585;
+    padding: 5px 20px;
+    margin: 25px 20px;
+    border-radius: 200px;
+}
+.erro_g {
+    background-color: #4895ef;
+    padding: 5px 20px;
+    margin: 25px 20px;
+    border-radius: 200px;
+}
+
+.acerto {
+    background-color: #0BAD87;
+    padding: 5px 20px;
+    margin: 25px 20px;
+    border-radius: 200px;
+}
+#advinha{
+
+    text-align: center;
+}
