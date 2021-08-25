@@ -39,10 +39,11 @@
 ## 📸 Imagens:
 
 <div> 
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879473248448938054/unknown.png" width="420px" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879473419803033610/unknown.png" width="420px" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879473574015008788/unknown.png" width="420px" target="_blank">
- 	<img src="https://cdn.discordapp.com/attachments/820125695958843432/879473660660961320/unknown.png"  width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879882849208123402/unknown.png" width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879883728585904168/unknown.png" width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879884008723468378/unknown.png" width="420px" target="_blank">
+ 	<img src="https://cdn.discordapp.com/attachments/820125695958843432/879796326336978984/unknown.png"  width="420px" target="_blank">
+     	<img src=""  width="420px" target="_blank">
 </div>  
 
  ##
