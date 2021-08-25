@@ -39,11 +39,12 @@
 ## 📸 Imagens:
 
 <div> 
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879882849208123402/unknown.png" width="420px" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879883728585904168/unknown.png" width="420px" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879884008723468378/unknown.png" width="420px" target="_blank">
- 	<img src="https://cdn.discordapp.com/attachments/820125695958843432/879796326336978984/unknown.png"  width="420px" target="_blank">
-     	<img src=""  width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879885803034144808/unknown.png" width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879885964661653534/unknown.png" width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879886124661747802/unknown.png" width="420px" target="_blank">
+ 	<img src="https://cdn.discordapp.com/attachments/820125695958843432/879886238675501156/unknown.png"  width="420px" target="_blank">
+     <img src="https://cdn.discordapp.com/attachments/820125695958843432/879886391314644992/unknown.png"  width="420px" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/820125695958843432/879886525146492938/unknown.png"  width="420px" target="_blank">
 </div>  
 
  ##
