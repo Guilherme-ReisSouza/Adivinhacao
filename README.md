@@ -1,13 +1,12 @@
-# Adivinhacao
 
-# 🕹️ Adivinhacao 🕹️
+# 🕹️ Adivinhação 🕹️
 
 ### - 🧰 Criação de um site para a pratica de logica de programação!!  
 
 
 <div>
     <br>
-    <img src="https://cdn.discordapp.com/attachments/820125695958843432/879796326336978984/unknown.png" target="_blank"><br>
+   <img src="https://cdn.discordapp.com/attachments/820125695958843432/879886391314644992/unknown.png" target="_blank"><br>
    <br> Caso tenha se Interesse, basta clicar <a href = "https://adivinhesepuder.netlify.app">⚠️ AQUI ⚠️</a> para experienciar por conta as features desse projeto. 
 </div>
 
